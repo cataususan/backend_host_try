@@ -1,1 +1,1 @@
-web: java -jar target/your-app-name.jar
+web: java -jar target/.mvn/wrapper/maven-wrapper.jar
